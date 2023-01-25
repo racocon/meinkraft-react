@@ -12,7 +12,7 @@ Developed using [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 ## Gameplay Instructions
 It's just a Minecraft lookalike. To control the player, simply:
 <ul>
-<li>Use W,A,S,D for the directional keys</li>
+<li>Use W, A, S, D to move front, left, back, and right</li>
 <li>Use SPACE to jump</li>
 <li>Use MOUSE to control the camera</li>
 <li>Use LEFT CLICK to place a dirt block (only can place on another dirt block)</li>
